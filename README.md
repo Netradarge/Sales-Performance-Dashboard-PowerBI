@@ -20,8 +20,7 @@ The data used is a fictional sample dataset with fields like Order Date, Sales, 
 To showcase data visualization skills in Power BI and deliver actionable insights from sales data.
 
 ## 📸 Preview
-*Screenshot of dashboard coming soon*
-
+![Dashboard Preview](dashboard_preview.png)
 ---
 
 **Created by Netra Sunil Darge**
